@@ -1,0 +1,4 @@
+[submodule "fireblog/firesinusa.github.io"]
+	path = fireblog/firesinusa.github.io
+	url = https://github.com/AlenDK/firesinusa.github.io.git
+	branch = main
