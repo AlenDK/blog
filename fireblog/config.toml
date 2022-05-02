@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Fires in the US'
+theme = "hugo-PaperMod"
